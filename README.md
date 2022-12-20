@@ -22,7 +22,7 @@ Run the Masking.ipynb to transform all masks, you only need to do this step once
 
 # Dataloader
 Feel free to use pre-generated datasets from the pickle files <br>
-You can also use Original.ipynb to generate your own datasets
+You can also use Split.ipynb to generate your own datasets
 
 # Models
 Run any model you like using the .ipynb files. However, only AttentionUNet++.ipynb and Complete_UNet++.ipynb contain predictions with test dataset <br>
