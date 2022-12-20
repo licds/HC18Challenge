@@ -31,7 +31,7 @@ You will see dice index for evaluation at the end of each model
 
 # Contributions
 Yi contributed Original, Masking, UNet, ResUNet, UNet++, AttentionUNet, AttentionUNet++, and UNet+++ <br>
-Bo contributed predictions with test dataset contained in AttentionUNet and UNet++
+Bo contributed predictions with test dataset contained in AttentionUNet and UNet++，error analysis with test dataset, loss function modification/analysis, optimizer modification/analysis, Dice loss evaluation modification/analysis.
 
 # Reference
 - Thomas L. A. van den Heuvel, Dagmar de Bruijn, Chris L. de Korte and Bram van Ginneken. Automated measurement of fetal head circumference using 2D ultrasound images. PloS one, 13.8 (2018): e0200412.
